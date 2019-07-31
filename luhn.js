@@ -25,5 +25,4 @@ let check = function(number) {
   
 };
 
-let number = 79927398713;
-console.log(check(number));
+module.exports = check;
